@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1348797234 source:c:\users\rafael drumond\cs440\cs 440 mp1\dungeon.cpp
+	"master.h"
+
+1348796777 c:\users\rafael drumond\cs440\cs 440 mp1\master.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"dungeon.h"
+
+1348796332 c:\users\rafael drumond\cs440\cs 440 mp1\dungeon.h
+
+1348797201 source:c:\users\rafael drumond\cs440\cs 440 mp1\main.cpp
+	"master.h"
+
